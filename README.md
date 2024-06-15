@@ -25,4 +25,8 @@
 
   - Dark Mode
 
+    ![E-Commerce Black](https://github.com/Anshu1997-cloud/E-Commerce-Website/assets/135546335/0318c07f-18e1-4fbb-8e20-d48cf28c45b8)
+
+  - Footer
+ 
     
