@@ -32,5 +32,5 @@
     ![E-Commerece footer](https://github.com/Anshu1997-cloud/E-Commerce-Website/assets/135546335/0a9322f2-0a8c-4da4-8870-686a192bf6e6)
 
   - Cart Page
- 
     
+    ![E-Commerece Cart](https://github.com/Anshu1997-cloud/E-Commerce-Website/assets/135546335/066228cb-76d4-4d3d-bc9a-6c7224a71e11)
