@@ -29,4 +29,8 @@
 
   - Footer
  
+    ![E-Commerece footer](https://github.com/Anshu1997-cloud/E-Commerce-Website/assets/135546335/0a9322f2-0a8c-4da4-8870-686a192bf6e6)
+
+  - Cart Page
+ 
     
