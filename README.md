@@ -20,4 +20,9 @@
 
   ## Screenshots -
   - Landing Page
+ 
+    ![E-commerce](https://github.com/Anshu1997-cloud/E-Commerce-Website/assets/135546335/23fcc1e0-18de-4770-a9d1-0697e865d4e9)
+
+  - Dark Mode
+
     
